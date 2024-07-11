@@ -1,1 +1,2 @@
 amilys/embyserver
+homeassistant/home-assistant
