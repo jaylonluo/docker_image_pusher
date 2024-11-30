@@ -6,3 +6,4 @@ xhofe/alist:latest
 onlyoffice/documentserver
 mzz2017/v2raya
 ghcr.io/binary-husky/gpt_academic_nolocal:master
+ghcr.io/binary-husky/gpt_academic_with_latex:master
