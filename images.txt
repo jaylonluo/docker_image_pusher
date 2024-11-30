@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 onlyoffice/documentserver
 mzz2017/v2raya
+ghcr.io/binary-husky/gpt_academic_nolocal:master
