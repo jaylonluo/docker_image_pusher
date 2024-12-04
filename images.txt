@@ -1,9 +1,1 @@
-amilys/embyserver
-homeassistant/home-assistant
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
-onlyoffice/documentserver
-mzz2017/v2raya
-ghcr.io/binary-husky/gpt_academic_nolocal:master
-ghcr.io/binary-husky/gpt_academic_with_latex:master
+ghcr.io/biliup/caution:latest
