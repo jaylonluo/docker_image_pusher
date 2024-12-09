@@ -1,1 +1,3 @@
 ghcr.io/biliup/caution:latest
+metacubex/mihomo
+ghcr.io/metacubex/metacubexd
